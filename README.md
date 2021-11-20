@@ -1,4 +1,4 @@
-# M1_Game_Snake-and-Ladder
+# M1_Game_Snakes-and-Ladders
 
 Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board game for two or more players regarded today as a worldwide classic.
 It is played on a game board with numbered, gridded squares. A number of "ladders" and "snakes" are pictured on the board, each connecting two specific board squares. 
