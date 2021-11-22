@@ -25,12 +25,4 @@ Rules
 - Snakes and Ladders do not create a cycle.
 
 
-
-Skills
-----------------------------------------------------------------------------------------------
-- Snake and ladder game allows students to understand the concept of Mathematics easily. 
-- In addition, students can be exposed to the operations of addition and subtraction indirectly and it is also a suitable activity for leisure time. 
-- This is to promote social skills and interaction among the players.
-
-
-[image](https://user-images.githubusercontent.com/83266225/142726417-2f236f36-06ab-4108-9c2f-d7064b4c8b02.jpg)
+(https://user-images.githubusercontent.com/83266225/142726417-2f236f36-06ab-4108-9c2f-d7064b4c8b02.jpg)
