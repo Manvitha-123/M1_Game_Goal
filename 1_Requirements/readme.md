@@ -27,3 +27,58 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
 
 
 
+   SWOT ANALYSIS
+-----------------------------------------------------------------------------
+
+  STRENGTH
+  
+  - It teaches strategy skills to children, teamwork, color recognition and it is fun to play. 
+  - It is a great way to bond with the entire family members playing this game.
+  - It allows students to understand the concept of Mathematics easily. 
+  - In addition, students can be exposed to the operations of addition and subtraction indirectly and it is also a suitable activity for leisure time. This is to promote social skills and interaction among the players.
+  
+  WEAKNESS
+  
+  - One of the weaknesses is it takes much time.
+  
+  OPPORTUNITIES
+  
+  - Can have fun and relief.
+  
+  THREATS
+  
+  - Children being exposed to moderate physical activity. Children tripping, falling and bumping into fixed objects and other children. 
+  - Snakes and Ladders has taken every reasonable step to control these risks through the design, maintenance and operation of the facility.
+  
+  
+  4W'S and 1H
+----------------------------------------------------------------------------
+
+  WHO:
+  
+  - Anyone cam play the game.
+  
+  WHAT:
+  
+  - It is played by two or more players.
+
+  WHEN:
+  
+  - Whenever the player wants to get relived from stress.
+  - To increase fun.
+
+  WHY:
+  
+  - 
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+
+
+
