@@ -67,9 +67,22 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
   - Whenever the player wants to get relived from stress.
   - To increase fun.
 
-  WHY:
+  WHERE:
+  
+  - We can play manually or by using electonic devices.
+  
+  HOW:
+  
+  - One can simply enter his name and start playing.
+ 
+   DETAIL REQUIREMENTS:
+ --------------------------------------------------------------------------- 
+ 
+  HIGH LEVEL REQUIREMENTS:
   
   - 
+  
+  
   
   
   
