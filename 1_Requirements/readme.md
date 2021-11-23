@@ -11,12 +11,7 @@ Snakes and ladders originated in India as part of a family of dice board games t
 According to some historians, the game was invented by "Saint Gyandev" in the 13th century AD. 
 Originally, the game was used as a part of moral instruction to children.
 
-[Snakes-and-Ladders, gouache(19th century)](https://user-images.githubusercontent.com/83266225/142720798-34f39add-2924-4fc6-a6de-6d178c1eb6c5.jpg)
-
-[Gyan chaupar (Jain version)](https://user-images.githubusercontent.com/83266225/142720916-bd8ee902-9fc0-44b9-8027-ac81258d1ddd.jpg)
-
-
-   OBJECTIVE
+  OBJECTIVE
 -------------------------------------------------------------------------
 
 The object of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (top square), helped by climbing ladders but hindered by falling down snakes. 
