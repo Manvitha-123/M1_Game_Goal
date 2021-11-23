@@ -43,7 +43,7 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
   
   OPPORTUNITIES
   
-  - Can have fun and relief.
+  - User friendly and easily accessible.
   
   THREATS
   
@@ -80,9 +80,16 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
  
   HIGH LEVEL REQUIREMENTS:
   
-  - 
+  - OS                :  Windows 8.1
+  - Architecture      :  x84,x64,ARM,ARM64
+  - Language          :  C Programming 
+  - Project Platform  :  C
+  - Many functions have been used in this game.Here i will some of them below.
+  - They are Main(), Save game(), Load game(), Dice(), Position(), Main game().
   
+  LOW LEVEL REQUIREMENTS:
   
+  - The game consists of Players,Board and Dice.If we take the player we didn't find any special entity.Then take the board,we see one entity a list of cells.In dice,we see just one method that will return 1-6 random numbers.One more class is for moving the object from higher cell to lower(snake) or vice versa(ladder).
   
   
   
