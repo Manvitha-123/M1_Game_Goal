@@ -8,7 +8,6 @@ Design the game of Snake & Ladder
 - Each ladder will have its start position at some number and end position at a larger number.
 - There can be multiple players in the game.
 
-
 Rules
 ---------------------------------------------------------------------------------------------
 - The board has numbers from 1 to n^2.
@@ -24,5 +23,8 @@ Rules
 - After the dice roll, if a piece is supposed to move outside position 100, it does not move.
 - Snakes and Ladders do not create a cycle.
 
+Future Scope
+-------------------------------------------------------------------------------------------
+- The game can be played by more than one dices. (i.e. if there are two dices then the numbers from 2 to 12 will be generated).
+- On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.
 
-(https://user-images.githubusercontent.com/83266225/142726417-2f236f36-06ab-4108-9c2f-d7064b4c8b02.jpg)
