@@ -40,6 +40,7 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
   WEAKNESS
   
   - One of the weaknesses is it takes much time.
+  - Previous data will not be stored.
   
   OPPORTUNITIES
   
@@ -70,10 +71,11 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
   WHERE:
   
   - We can play manually or by using electonic devices.
+  - Available in Visual studio code.
   
   HOW:
   
-  - One can simply enter his name and start playing.
+  - Using C programming Language.
  
    DETAIL REQUIREMENTS:
  --------------------------------------------------------------------------- 
