@@ -56,7 +56,7 @@ Every vertex of the graph has an edge to next six vertices if next 6 vertices do
 
   WHO:
   
-  - Anyone cam play the game.
+  - Anyone can play the game.
   
   WHAT:
   
