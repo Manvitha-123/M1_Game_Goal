@@ -21,11 +21,16 @@ Originally, the game was used as a part of moral instruction to children.
  - The game is compatible on Windows 8.
  - Shortcut commands are present which makes experience of playing game more pleasant.
  
-    SYSTEM REQUIREMENTS
-   -----------------------------------------------------------------------
+  SYSTEM REQUIREMENTS
+  --------------------------------------------------------------------------
   
   - OS                :  Windows 8.1
   - Architecture      :  x84,x64,ARM,ARM64
   - Language          :  C Programming 
   - Project Platform  :  C
   - Many functions have been used in this game.Here i will some of them below.They are Main(), Save game(), Load game(), Dice(), Position(), Main game().
+  
+   CONCLUSION
+  ------------------------------------------------------------------------
+  In the end, cognitive development is happening as expected. 
+  Therefore, it can be concluded that the snake and ladder game is able to be used to improve the cognitive development of students with learning difficulties in Mathematics.
