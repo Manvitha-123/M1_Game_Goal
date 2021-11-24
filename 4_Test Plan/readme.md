@@ -20,6 +20,6 @@ It is the most crucial activity which ensures availability of all the lists of p
 ### Table no: Low level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
-|  L_01   |  Display Data               |   SUCCESS       | SUCCESS      |  SUCCESS      |  Pass          |
+|  L_01   |  Display Data               |   Success       | Success      |  Success      |  Pass          |
 |  L_02   |  Sore Player1               |   Winner        |  Winner      |  Runner       |  Fail          |
 |  L_03   |  Score Player2              |   Runner        |  Runner      |  Winner       |  Fail          |
