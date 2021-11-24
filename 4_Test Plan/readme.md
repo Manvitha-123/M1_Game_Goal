@@ -7,15 +7,19 @@ It is the most crucial activity which ensures availability of all the lists of p
 
 
 ### Table no: High level test plan
-| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
-| --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
-|  H_01   |                             |                 |              |               |                |
-|  H_02   |                             |                 |              |               |                |
-|  H_03   |                             |                 |              |               |                |
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  | Pass or Fail   |
+| --------| --------------------------  | --------------- | ------------ | ------------- | -------------- |
+|  H_01   | Start the game              | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_02   |    Player1                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Player2                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Snakes                   | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Ladders                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Game Over                | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Exit                     | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
 
 ### Table no: Low level test plan
-| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
-|  L_01   |                             |                 |              |               |                |
-|  L_02   |                             |                 |              |               |                |
-|  L_03   |                             |                 |              |               |                |
+|  L_01   |  Display Data               |   SUCCESS       | SUCCESS      |  SUCCESS      |  Pass          |
+|  L_02   |  Sore Player1               |   Winner        |  Winner      |  Runner       |  Fail          |
+|  L_03   |  Score Player2              |   Runner        |  Runner      |  Winner       |  Fail          |
