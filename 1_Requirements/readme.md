@@ -20,6 +20,11 @@ The idea is to consider the given snake and ladder board as a directed graph wit
 The problem reduces to finding the shortest path in a graph. 
 Every vertex of the graph has an edge to next six vertices if next 6 vertices do not have a snake or ladder.
 
+  RESEARCH
+ ------------------------------------------------------------------------
+ 
+  The Snakes and Ladders of Research is a board game aimed at summarising and reinforcing the pitfalls and virtues of research design in undergraduate research projects.It is an attempt which was made to transfer knowledge of good and bad research practices from a passive learning environment to an active one. When played with two undergraduate classes the game was well received and the short‐term recall of good and bad research practices averaged 73%.
+
   FEATURES
 --------------------------------------------------------------------------
  
