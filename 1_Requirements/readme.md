@@ -20,9 +20,16 @@ The idea is to consider the given snake and ladder board as a directed graph wit
 The problem reduces to finding the shortest path in a graph. 
 Every vertex of the graph has an edge to next six vertices if next 6 vertices do not have a snake or ladder.
 
+  FEATURES
+--------------------------------------------------------------------------
+ 
+ - Up to 4 players can play the game at a time.
+ - Play the game for lifetime.When you purchase the game you will get license number.With that number you can activate and deactivate the game as well.
+ - All the 5 layouts have different positions and number of snakes and ladders.
+ - The game is compatible on Windows 8.
+ - Shortcut commands are present which makes experience of playing game more pleasant.
 
-
-   SWOT ANALYSIS
+  SWOT ANALYSIS
 -----------------------------------------------------------------------------
 
   STRENGTH
