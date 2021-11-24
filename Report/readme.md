@@ -22,7 +22,7 @@ Originally, the game was used as a part of moral instruction to children.
  - Shortcut commands are present which makes experience of playing game more pleasant.
  
     SYSTEM REQUIREMENTS
-  -------------------------------------------------------------------------
+   -----------------------------------------------------------------------
   
   - OS                :  Windows 8.1
   - Architecture      :  x84,x64,ARM,ARM64
