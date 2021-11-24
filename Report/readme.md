@@ -30,6 +30,11 @@ Originally, the game was used as a part of moral instruction to children.
   - Project Platform  :  C
   - Many functions have been used in this game.Here i will some of them below.They are Main(), Save game(), Load game(), Dice(), Position(), Main game().
   
+  SKILLS REQUIRED
+ ---------------------------------------------------------------------------
+  - Random chance  : Complete
+  - Counting , Observation
+  
    CONCLUSION
   ------------------------------------------------------------------------
   In the end, cognitive development is happening as expected. 
