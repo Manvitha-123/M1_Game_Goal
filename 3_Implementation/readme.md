@@ -6,13 +6,13 @@ Implementation of Snake and Ladder
 - Every vertex of the graph has an edge to next six vertices if next 6 vertices do not have a snake or ladder.
  
    
-     FOLDER STRUCTURE
+     Folder Structure
    -------------------------------------------------------------------
    
-    | Folder |	       |            | description |
-    |----| ------|
-    | inc	             |                     All header files   |
-    | src	             |         Main source code for calculator |
-    | test	           |          All source code and data for testing purposes |
-    | build	           |         Build output (Not included in git) |
+    Folder           |            description 
+  ------------------ |----------------------------------------------------------
+    `inc`            |       All header files  
+    `src`            |           Main source code for calculator 
+    `test`           |            All source code and data for testing purposes 
+    `build`          |            Build output (Not included in git) 
     
