@@ -20,3 +20,12 @@ Originally, the game was used as a part of moral instruction to children.
  - All the 5 layouts have different positions and number of snakes and ladders.
  - The game is compatible on Windows 8.
  - Shortcut commands are present which makes experience of playing game more pleasant.
+ 
+    SYSTEM REQUIREMENTS
+  -------------------------------------------------------------------------
+  
+  - OS                :  Windows 8.1
+  - Architecture      :  x84,x64,ARM,ARM64
+  - Language          :  C Programming 
+  - Project Platform  :  C
+  - Many functions have been used in this game.Here i will some of them below.They are Main(), Save game(), Load game(), Dice(), Position(), Main game().
