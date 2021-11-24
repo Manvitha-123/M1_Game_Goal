@@ -10,3 +10,13 @@ The game is also sold under other names such as 'Chutes and Ladders', Bible Ups 
 Snakes and ladders originated in India as part of a family of dice board games that included 'gyan chauper and pachisi' (known in English as Ludo and Parcheesi).
 According to some historians, the game was invented by "Saint Gyandev" in the 13th century AD. 
 Originally, the game was used as a part of moral instruction to children.
+
+   
+   FEATURES
+ --------------------------------------------------------------------------
+ 
+ - Up to 4 players can play the game at a time.
+ - Play the game for lifetime.When you purchase the game you will get license number.With that number you can activate and deactivate the game as well.
+ - All the 5 layouts have different positions and number of snakes and ladders.
+ - The game is compatible on Windows 8.
+ - Shortcut commands are present which makes experience of playing game more pleasant.
