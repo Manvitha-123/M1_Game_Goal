@@ -9,13 +9,13 @@ It is the most crucial activity which ensures availability of all the lists of p
 ### Table no: High level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  | Pass or Fail   |
 | --------| --------------------------  | --------------- | ------------ | ------------- | -------------- |
-|  H_01   | Start the game              | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_02   |    Player1                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Player2                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_04   |    Snakes                   | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_05  |    Ladders                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_06  |    Game Over                | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_07   |    Exit                     | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_01   | Start the game              | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_02   |    Player1                  | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_03   |    Player2                  | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_04   |    Snakes                   | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_05  |    Ladders                   | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_06  |    Game Over                 | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_07   |    Exit                     | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
 
 ### Table no: Low level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
