@@ -7,15 +7,15 @@ It is the most crucial activity which ensures availability of all the lists of p
 
 
 ### Table no: High level test plan
-| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  | Pass or Fail   |
-| --------| --------------------------  | --------------- | ------------ | ------------- | -------------- |
-|  H_01   | Start the game              | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_02   |    Player1                  | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Player2                  | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_04   |    Snakes                   | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_05  |    Ladders                   | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_06  |    Game Over                 | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_07   |    Exit                     | Choice          |  SUCCESS     |  SUCCESS      |  Pass          |
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  | Type of Test      |
+| --------| --------------------------  | --------------- | ------------ | ------------- | --------------    |
+|  H_01   | Start the game              | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_02   |    Player1                  | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_03   |    Player2                  | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_04   |    Snakes                   | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_05  |    Ladders                   | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_06  |    Game Over                 | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
+|  H_07   |    Exit                     | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
 
 ### Table no: Low level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
