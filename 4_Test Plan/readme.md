@@ -12,10 +12,10 @@ It is the most crucial activity which ensures availability of all the lists of p
 |  H_01   | Start the game              | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
 |  H_02   |    Player1                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
 |  H_03   |    Player2                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Snakes                   | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Ladders                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Game Over                | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
-|  H_03   |    Exit                     | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_04   |    Snakes                   | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_05  |    Ladders                  | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_06  |    Game Over                | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
+|  H_07   |    Exit                     | SUCCESS         |  SUCCESS     |  SUCCESS      |  Pass          |
 
 ### Table no: Low level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
