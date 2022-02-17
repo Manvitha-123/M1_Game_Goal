@@ -18,8 +18,9 @@ It is the most crucial activity which ensures availability of all the lists of p
 |  H_07   |    Exit                     | Choice          |  SUCCESS     |  SUCCESS      | Reqirement based  |
 
 ### Table no: Low level test plan
-| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Pass or Fail  |
-| --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
-|  L_01   |  Display Data               |   Success       | Success      |  Success      |  Pass          |
-|  L_02   |  Sore Player1               |   Winner        |  Winner      |  Runner       |  Fail          |
-|  L_03   |  Score Player2              |   Runner        |  Runner      |  Winner       |  Fail          |
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |  Type of Test     |
+| --------| --------------------------- | --------------- | ------------ | ------------- | --------------    |
+|  L_01   |  Display Data               |   Success       | Success      |  Success      | Reqirement based  |
+|  L_02   |  Sore Player1               |   Winner        |  Winner      |  Runner       | Reqirement based  |
+|  L_03   |  Score Player2              |   Runner        |  Runner      |  Winner       | Reqirement based  |
+
